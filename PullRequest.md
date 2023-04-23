@@ -32,14 +32,7 @@
 - base repository : Fork한 Repository
 - head repository : 본인 repository
 
-## 4. 형식에 맞춰 PR을 요청한다.
-<img width="100%" src="https://user-images.githubusercontent.com/105155862/231629055-f48609ca-17b0-48b0-83cf-0c020d18c4f6.png">
+## 4. PR을 요청한다.
+<img width="100%" src="https://user-images.githubusercontent.com/105155862/233822512-cdcabb72-9ecd-434c-ab59-b0c5a2bfabb8.png">
 
-```
-요약정리
-- 내용
-읽고 느낀 점
-- 내용
-의문, 고민, 같이 이야기하고 싶은 부분
-- 내용
-```
+PR의 내용은 생략해도 무방하다.
